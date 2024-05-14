@@ -1,0 +1,4 @@
+This is a Sample Text File.
+It contains various elements such as capital words, small words, 12345, @#$ symbols, and +*- operators.
+Each line in this file represents a new line.
+This file has been created for testing purposes.
